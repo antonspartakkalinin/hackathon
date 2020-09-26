@@ -1,0 +1,71 @@
+*
+{
+  margin : 0px;
+}
+html
+{
+  background-image: url(Retro.png);
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  font-family: 'Anton', sans-serif;
+}
+body
+{
+  margin: 0;
+  padding: 0;
+
+}
+
+title{
+text-color: black;
+}
+h1
+{
+  
+  text-align: center;
+  text-color: black;
+  color: rgba(0, 0, 0, .3);
+
+
+
+}
+p
+{
+  float: left;
+  text-align: center;
+  text-color: black;
+  font-family:
+
+}
+#myCanvas
+{
+  border-style: solid;
+  border: black;
+  float: left;
+}
+#button
+{
+  position: relative;
+  display: inline-block;
+  font-size: 16px;
+  font-family: "montserrat";
+  color: white;
+  padding: 15px 30px;
+  text-align: center;
+  text-transform: uppercase;
+  text-decoration: none;
+  background-color: #2d3436;
+  border: 2px solid #ff7675;
+  right: 300px;
+  top: 150px;
+  overflow: hidden;
+  transition: .2s;
+}
+/*
+.hidden{
+  display: none !important;
+}
+*/
+</style>
